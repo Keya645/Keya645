@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hello! I am a 3rd year under-Graduate student at the Dept. of Computer Science Engineering Artificial intelligence and Machine Learning, Bengal Institute of Technology, Kolkata, working my way towards a B.Tech degree in CSE(AI&ML).I possess a keen interest in AI-driven solutions. Love to deep drive into cool technologies.I have a keen interest in Data Structures and Algorithms, currently enhancing my skills in python & Java through platforms like Geeks for Geeks and Leetcode.</p>
+<p align="left">Hello! I am a 3rd year under-Graduate student at the Dept. of Computer Science Engineering Artificial intelligence and Machine Learning, Bengal Institute of Technology, Kolkata, working my way towards a B.Tech degree in CSE(AI&ML).I possess a keen interest in AI-driven solutions. Love to deep drive into cool technologies.Currently, I am working on strengthening my problem-solving skills, learning Data Structures & Algorithms, and developing full-stack and AI-based applications.I am specially interested in innovative ideas that can solve real-world problems in areas like healthcare and society.I love learning, building, and experimenting with new technologies, and I am continuously working towards becoming a skilled software engineer.</p>
 
 ###
 
