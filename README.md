@@ -1,8 +1,8 @@
 <div>
 <img 
-  src="https://raw.githubusercontent.com/Keya645/Keya645/main/keya-sen-2026.png"
+  src="https://github.com/Keya645/Keya645/blob/main/keya-sen-2026%20(2).png?raw=true"
   alt="Banner"
-  width="100%"
+  width="50%"
 />
 </div>
 
