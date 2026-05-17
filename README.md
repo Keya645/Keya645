@@ -1,10 +1,11 @@
 <div>
-<img 
-  src="https://github.com/Keya645/Keya645/blob/main/keya-sen-2026%20(2).png?raw=true"
-  alt="Banner"
-  width="1200"
-  height="350"
-/>
+<p align="center">
+  <img 
+    src="https://github.com/Keya645/Keya645/blob/main/keya-sen-2026%20(2).png?raw=true"
+    alt="Keya Sen AI ML Engineer Banner"
+    width="100%"
+  />
+</p>
 </div>
 
 ###
