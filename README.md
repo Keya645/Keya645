@@ -2,7 +2,8 @@
 <img 
   src="https://github.com/Keya645/Keya645/blob/main/keya-sen-2026%20(2).png?raw=true"
   alt="Banner"
-  width="70%"
+  width="1200"
+  height="350"
 />
 </div>
 
