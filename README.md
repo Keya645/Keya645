@@ -2,16 +2,16 @@
   <img src="https://github.com/Keya645/Keya645/blob/main/keya-sen-2026%20(2).png?raw=true" width="100%" style="border-radius: 20px; box-shadow: 0 0 40px #c026d3;">
   <h1 style="margin: 20px 0 10px;">
     <span style="background: linear-gradient(90deg, #a855f7, #ec4899, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.8em;">
-      KEYA SEN
+     Hello! I am KEYA...
     </span>
   </h1>
-  <h3> Neural Architect | AI/ML Engineer in Training </h3>
+  <h3> Software Developer || AI/ML Engineer </h3>
   <p><strong>4B 65 79 61 20 53 65 6E</strong> • Decoding Intelligence</p>
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 15px; border: 2px solid #c026d3;">
 </div>
 
