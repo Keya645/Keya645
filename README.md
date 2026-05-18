@@ -8,6 +8,10 @@
 ██║  ██╗███████╗   ██║   ██║  ██║    ███████║███████╗██║ ╚████║
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═══╝
 ```
+<img 
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=KEYA+SEN" 
+alt="KEYA SEN Animated Title" 
+/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=4B+65+79+61+20+53+65+6E+%E2%86%92+Keya+Sen+%7C+Decoding+Intelligence;AI+%2F+ML+Engineer+%7C+Deep+Learning+%7C+Soft+Computing;Building+Systems+That+Think%2C+Learn+%26+Evolve" alt="Typing SVG" />
 
