@@ -9,11 +9,9 @@
 <br>
 <div align="right">
   <img src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 15px; border: 2px solid #c026d3;">
-</div>
-<h3>**3rd Year CSE (AI & ML)** Student @Techno Bengal Institute of Technology</h3>  
+  <h3>**3rd Year CSE (AI & ML)** Student @Techno Bengal Institute of Technology</h3>  
 </h3>Building intelligent systems that matter — Healthcare | Society | Future Tech</h3>
----
-
+</div>
 ###  COMPETITIVE CODING ARENA
 
 <div align="center">
