@@ -7,11 +7,10 @@
   <p><strong>4B 65 79 61 20 53 65 6E</strong> • Decoding Intelligence</p>
 </div>
 <br>
-<div align="right">
-  <img src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 15px; border: 2px solid #c026d3;">
-  <p align="left">**3rd Year CSE (AI & ML)** Student @Techno Bengal Institute of Technology 
-     Building intelligent systems that matter — Healthcare | Society | Future Tech</p>
-</div>
+  <img align="right" src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 15px; border: 2px solid #c026d3;">
+  <h3 align="left">**3rd Year CSE (AI & ML)** Student @Techno Bengal Institute of Technology </h3>
+  <h4 align="left">Building intelligent systems that matter — Healthcare || Society || Future Tech </h4>
+
 ###  COMPETITIVE CODING ARENA
 
 <div align="center">
