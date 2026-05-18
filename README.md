@@ -5,6 +5,10 @@
   </h1>
   <h3>𔘓 Software Developer || AI/ML Engineer 𔘓 </h3>
   <p><strong>4B 65 79 61 20 53 65 6E</strong> • Decoding Intelligence</p>
+  ---
+> *"The only way to do great work is to love what you do."*  
+> — Steve Jobs
+---
 </div>
 <br>
   <img align="right" src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 15px; border: 2px solid #c026d3;">
@@ -31,26 +35,25 @@
 </div>
 
 ---
-
-### 📡 LIVE STATS
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keya645&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keya645&layout=compact&theme=radical&hide_border=true&border_radius=20" height="165" alt="Languages"/>
+<!-- Main Stats - Radical Neon Theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=Keya645&show_icons=true&theme=radical&hide_border=true&border_radius=25&include_all_commits=true&count_private=true&ring_color=cc66ff&title_color=ff00ff" height="168" alt="Keya Stats"/>
+<!-- Top Languages - Compact & Stylish -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keya645&layout=compact&theme=radical&hide_border=true&border_radius=25&langs_count=8&hide=jupyter%20notebook" height="168" alt="Top Languages"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keya645&theme=radical&hide_border=true&border_radius=20" height="180" alt="Streak"/>
+<!-- Contribution Streak - Fire Style -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keya645&theme=radical&hide_border=true&border_radius=25&ring_color=ff00ff&fire=ff00ff&currStreakLabel=cc66ff" height="185" alt="Streak"/>
 </div>
-
+<div align="center">
+<!-- GitHub Trophies - Unique Achievement Style -->
+<img src="https://github-profile-trophy.vercel.app/?username=Keya645&theme=radical&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies"/>
+</div>
 ---
+!-- Optional Activity Graph (Very Unique) -->
+### <div align="center"> CONTRIBUTION ACTIVITY GRAPH</div>
 
-### MISSION STATEMENT
-
-> *"The only way to do great work is to love what you do."*  
-> — Steve Jobs
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keya645&theme=radical&hide_border=true&radius=25" width="100%" alt="Activity Graph"/>
 
 ### QUICK LINKS
 
