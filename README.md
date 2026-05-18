@@ -1,90 +1,88 @@
 <div align="center">
-  <img src="https://github.com/Keya645/Keya645/blob/main/keya-sen-2026%20(2).png?raw=true" alt="Keya Sen - AI/ML Engineer" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <img src="https://github.com/Keya645/Keya645/blob/main/keya-sen-2026%20(2).png?raw=true" width="100%" style="border-radius: 20px; box-shadow: 0 0 40px #c026d3;">
+  <h1 style="margin: 20px 0 10px;">
+    <span style="background: linear-gradient(90deg, #a855f7, #ec4899, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.8em;">
+      KEYA SEN
+    </span>
+  </h1>
+  <h3> Neural Architect | AI/ML Engineer in Training </h3>
+  <p><strong>4B 65 79 61 20 53 65 6E</strong> • Decoding Intelligence</p>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>Hi there, I'm <span style="color:#c084fc;">Keya Sen</span> 👋</h1>
-  
-  <h3>
-    <span style="color:#a78bfa;">4B 65 79 61 20 53 65 6E</span> 
-    <span style="font-size: 1.2em;">✦</span> 
-    Turning ideas into intelligent systems
-  </h3>
+  <img src="https://i.imgflip.com/65efzo.gif" height="170" style="border-radius: 15px; border: 2px solid #c026d3;">
 </div>
 
-<br>
+---
+
+### <div align="center"> NEURAL CORE ACTIVATED</div>
+
+**3rd Year CSE (AI & ML)** Student @ Bengal Institute of Technology  
+Building intelligent systems that matter — Healthcare | Society | Future Tech
+
+---
+
+###  COMPETITIVE CODING ARENA
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="180" style="border-radius: 12px;"/>
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Keya_Sen)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B463B?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/keyaa_sen_05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/9064887336/)
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-2F9E44?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/senkey4w6m)
+
 </div>
 
 ---
 
-###  About Me
-
-<p align="center">
-  I'm a <strong>3rd year CSE (AI & ML)</strong> student at Bengal Institute of Technology, Kolkata.<br>
-  Passionate about building <strong>AI-driven solutions</strong> that solve real-world problems — especially in healthcare and social impact.
-</p>
-
-<p align="center">
-  I love deep-diving into new technologies, crafting elegant code, and creating things that matter.
-</p>
-
----
-
-###  Tech Stack
+###  TECH NEURAL NETWORK
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="38" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,react,nodejs,typescript,javascript,django,fastapi,mysql,mongodb,git,linux,docker&perline=8" />
 </div>
 
 ---
 
-### GitHub Analytics
+### 📡 LIVE STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keya645&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=15" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keya645&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=15" height="165" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Keya645&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="165" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keya645&layout=compact&theme=radical&hide_border=true&border_radius=20" height="165" alt="Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keya645&theme=radical&hide_border=true&border_radius=20" height="180" alt="Streak"/>
 </div>
 
 ---
 
-###  Favorite Quote
+### MISSION STATEMENT
 
 > *"The only way to do great work is to love what you do."*  
 > — Steve Jobs
 
 ---
 
-###  Connect With Me
+### QUICK LINKS
 
 <div align="center">
-  <a href="https://www.instagram.com/keyasen802?igsh=Zzl1NnhxcXU1OWFy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:senkeya2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/keya-sen-475972284" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://keyaa.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keya-sen-475972284/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senkeya2005@gmail.com)
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keya645&label=Profile%20Views&color=bb86fc&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Keya645&label=Neural%20Connections&color=cc66ff&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ and too much coffee • Neural Network v2.0</sub>
 </div>
