@@ -10,7 +10,7 @@
 ```
 <div align="left">
 
-<img align="right" height="50" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif" />
 
 <img 
 src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=3B82F6&left=true&vCenter=true&width=650&height=60&lines=Hello!+I+am+Keya..." 
